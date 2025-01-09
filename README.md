@@ -23,4 +23,11 @@ Contudo o URL "http://www.facebook.com" continuava não funcionando, a ferrament
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+## Facebook
+![Facebook](Facebook.png)
+
+## Instagram
+![Instagram](Instagram.png)
+
+## Dio
+![Dio](Dio.png)
